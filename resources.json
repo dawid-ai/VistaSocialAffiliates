@@ -3,6 +3,13 @@
   "lastUpdated": "10/11/2025",
   "categories": [
     {
+        "id": "quick-links",
+        "name": "Quick Links",
+        "description": "Important links and resources for affiliates",
+        "icon": "🔗",
+        "order": 0
+    },
+    {
       "id": "banners",
       "name": "Promotional Banners",
       "description": "Display ads in various sizes",
@@ -39,6 +46,30 @@
     }
   ],
   "resources": [
+    {
+      "id": "affiliate-dashboard",
+      "title": "Affiliate Dashboard",
+      "description": "Login to your affiliate account",
+      "category": "quick-links",
+      "type": "link",
+      "format": "url",
+      "url": "https://affiliate.dawid.ai/login",
+      "tags": ["affiliate", "login"],
+      "featured": true,
+      "dateAdded": "2025-01-10"
+    },
+    {
+      "id": "docs-website",
+      "title": "Documentation",
+      "description": "API docs and tutorials",
+      "category": "quick-links",
+      "type": "link",
+      "format": "url",
+      "url": "https://www.dawid.ai/docs",
+      "tags": ["docs"],
+      "featured": false,
+      "dateAdded": "2025-01-10"
+    },
     {
       "id": "banner-leaderboard-001",
       "title": "AI Tools Leaderboard Banner 728x90",
