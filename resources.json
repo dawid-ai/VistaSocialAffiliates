@@ -1,0 +1,167 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": 1705536000000,
+  "categories": [
+    {
+      "id": "banners",
+      "name": "Promotional Banners",
+      "description": "Display ads in various sizes",
+      "icon": "🎨",
+      "order": 1
+    },
+    {
+      "id": "brand",
+      "name": "Brand Assets",
+      "description": "Logos, icons, and brand guidelines",
+      "icon": "✨",
+      "order": 2
+    },
+    {
+      "id": "email",
+      "name": "Email Templates",
+      "description": "Ready-to-send promotional emails",
+      "icon": "📧",
+      "order": 3
+    },
+    {
+      "id": "social",
+      "name": "Social Media",
+      "description": "Posts, graphics, and hashtags",
+      "icon": "📱",
+      "order": 4
+    },
+    {
+      "id": "docs",
+      "name": "Documentation",
+      "description": "Guides and best practices",
+      "icon": "📚",
+      "order": 5
+    }
+  ],
+  "resources": [
+    {
+      "id": "banner-leaderboard-001",
+      "title": "AI Tools Leaderboard Banner 728x90",
+      "description": "High-converting banner for website headers and blog posts. Features modern gradient design.",
+      "category": "banners",
+      "type": "banner",
+      "format": "png",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/banners/728x90-promo-1.png",
+      "thumbnailUrl": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/banners/thumbs/728x90-promo-1-thumb.png",
+      "size": "45KB • 728x90px",
+      "tags": ["banner", "728x90", "header", "featured"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "usageHint": "Best for blog headers and website sidebars"
+    },
+    {
+      "id": "banner-rectangle-001",
+      "title": "Medium Rectangle Banner 300x250",
+      "description": "Versatile banner perfect for sidebar placements. Works great on desktop and mobile.",
+      "category": "banners",
+      "type": "banner",
+      "format": "png",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/banners/300x250-promo-1.png",
+      "size": "38KB • 300x250px",
+      "tags": ["banner", "300x250", "sidebar"],
+      "featured": false,
+      "dateAdded": 1705536000000
+    },
+    {
+      "id": "logo-main-svg",
+      "title": "Dawid.AI Logo (SVG)",
+      "description": "Main logo in vector format. Scalable to any size without quality loss.",
+      "category": "brand",
+      "type": "logo",
+      "format": "svg",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/brand/logo-main.svg",
+      "size": "8KB • Vector",
+      "tags": ["logo", "svg", "vector", "brand"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "usageHint": "Use for print materials and high-resolution displays"
+    },
+    {
+      "id": "email-welcome",
+      "title": "Welcome Email Template",
+      "description": "Friendly welcome email for new users. Includes introduction and getting started guide.",
+      "category": "email",
+      "type": "email-template",
+      "format": "html",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/email/welcome-email.html",
+      "size": "12KB",
+      "tags": ["email", "welcome", "onboarding"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "content": "Subject: Welcome to Dawid.AI - Your AI Writing Assistant! 🎉\n\nHi there!\n\nWelcome to Dawid.AI! We're excited to have you join thousands of users who are already supercharging their online writing with AI.\n\nHere's what you can do:\n• Generate thoughtful replies to social media posts\n• Summarize long articles in seconds\n• Rewrite text in any style\n• Translate content to multiple languages\n\nGet started in 3 easy steps:\n1. Add your API key in Settings\n2. Select text on any webpage\n3. Right-click and choose a prompt\n\nNeed help? Check out our documentation or reach out anytime.\n\nHappy writing!\nThe Dawid.AI Team\n\n---\n\nP.S. This email template is customizable - add your affiliate tracking link!",
+      "usageHint": "Personalize with your affiliate link and send to new signups"
+    },
+    {
+      "id": "social-twitter-post-1",
+      "title": "Twitter Announcement Post",
+      "description": "Engaging Twitter post template announcing Dawid.AI. Includes relevant hashtags.",
+      "category": "social",
+      "type": "social-post",
+      "format": "txt",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/social/twitter-post-1.txt",
+      "size": "1KB",
+      "tags": ["twitter", "x", "social", "post"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "content": "🚀 Just discovered @DawidAI - a game-changing Chrome extension that uses AI to help you write better online!\n\n✨ Generate replies\n📝 Summarize articles\n🌐 Translate text\n⚡ All with one click\n\nTry it free: [YOUR_AFFILIATE_LINK]\n\n#AITools #ProductivityHacks #ChromeExtension #ContentCreation",
+      "usageHint": "Replace [YOUR_AFFILIATE_LINK] with your tracking link"
+    },
+    {
+      "id": "social-linkedin-post-1",
+      "title": "LinkedIn Professional Post",
+      "description": "Professional LinkedIn post showcasing productivity benefits. Perfect for B2B audience.",
+      "category": "social",
+      "type": "social-post",
+      "format": "txt",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/social/linkedin-post-1.txt",
+      "size": "1KB",
+      "tags": ["linkedin", "social", "b2b", "professional"],
+      "featured": false,
+      "dateAdded": 1705536000000,
+      "content": "⚡ Boost Your Online Communication with AI\n\nI've been using Dawid.AI for the past month, and it's transformed how I engage on LinkedIn, Twitter, and professional forums.\n\nKey benefits:\n• Generate thoughtful responses in seconds\n• Maintain consistent brand voice\n• Save 2-3 hours per week on content creation\n• Support for multiple AI providers (OpenAI, Claude, Gemini)\n\nWhat I love most: It works seamlessly across all websites. Just select text, right-click, and let AI assist.\n\nPerfect for:\n✓ Content creators\n✓ Community managers  \n✓ Sales professionals\n✓ Anyone managing multiple social accounts\n\nCheck it out: [YOUR_AFFILIATE_LINK]\n\nWhat tools do you use to streamline your online communication?\n\n#ProductivityTools #AIAssistant #ContentStrategy #DigitalMarketing",
+      "usageHint": "Share on LinkedIn, add your affiliate link, engage with comments"
+    },
+    {
+      "id": "doc-affiliate-guide",
+      "title": "Affiliate Marketing Guide",
+      "description": "Complete guide for affiliates with best practices, conversion tips, and tracking setup.",
+      "category": "docs",
+      "type": "document",
+      "format": "pdf",
+      "url": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/docs/affiliate-guide.pdf",
+      "externalLink": "https://github.com/dawid-ai/VistaSocialAffiliates/assets/docs/affiliate-guide.pdf",
+      "size": "850KB • 15 pages",
+      "tags": ["guide", "pdf", "documentation", "best-practices"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "usageHint": "Read this first to maximize your affiliate success"
+    },
+    {
+      "id": "video-product-demo",
+      "title": "2-Minute Product Demo Video",
+      "description": "Short demo video showing key features. Perfect for embedding in blog posts or social media.",
+      "category": "docs",
+      "type": "video",
+      "format": "mp4",
+      "url": "https://www.youtube.com/watch?v=UjCdB5p2v0Y",
+      "externalLink": "https://www.youtube.com/watch?v=UjCdB5p2v0Y",
+      "size": "YouTube",
+      "tags": ["video", "demo", "tutorial", "youtube"],
+      "featured": true,
+      "dateAdded": 1705536000000,
+      "usageHint": "Embed in blog posts or share on social media"
+    }
+  ],
+  "featured": [
+    "banner-leaderboard-001",
+    "logo-main-svg",
+    "email-welcome",
+    "social-twitter-post-1",
+    "doc-affiliate-guide"
+  ]
+}
